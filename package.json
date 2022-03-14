@@ -3,10 +3,10 @@
   "license": "MIT",
   "version": "2.4.3",
   "description": "🛠 An SDK for building applications on top of Pancakeswap.",
-  "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "main": "src/index.js",
+  "typings": "src/index.ts",
   "files": [
-    "dist"
+    "src"
   ],
   "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
   "keywords": [
